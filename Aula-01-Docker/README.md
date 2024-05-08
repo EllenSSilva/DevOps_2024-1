@@ -1,6 +1,4 @@
-# DevOps de Elite
-
-## aula-01 - Trabalhando com Docker
+# aula-01 - Trabalhando com Docker
 
 ### Atividade 1 - **ubuntu_curl** 
 ____________________
