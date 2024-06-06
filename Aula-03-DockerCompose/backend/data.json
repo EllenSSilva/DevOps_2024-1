@@ -1,0 +1,49 @@
+{
+  "results": [
+    {
+      "month": "Jan",
+      "price": "180",
+      "id": "96dd"
+    },
+    {
+      "month": "Feb",
+      "price": "200",
+      "id": "fdc3"
+    },
+    {
+      "month": "March",
+      "price": "210",
+      "id": "6bf8"
+    },
+    {
+      "month": "April",
+      "price": "190",
+      "id": "c19f"
+    },
+    {
+      "month": "May",
+      "price": "240",
+      "id": "76a6"
+    },
+    {
+      "month": "June",
+      "price": "230",
+      "id": "3c3a"
+    },
+    {
+      "month": "July",
+      "price": "260",
+      "id": "83ec"
+    },
+    {
+      "month": "Aug",
+      "price": "250",
+      "id": "5133"
+    },
+    {
+      "month": "Sept",
+      "price": "300",
+      "id": "6c7d"
+    }
+  ]
+}
