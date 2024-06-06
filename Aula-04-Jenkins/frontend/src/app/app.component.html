@@ -1,0 +1,3 @@
+<div *ngIf="chart;then chart else other_content"></div>
+<ng-template #chart><canvas id="canvas">{{ chart }}</canvas></ng-template>
+<ng-template #other_content>Deu erro</ng-template>
